@@ -3,7 +3,7 @@
 - [ ] Install [Homebrew](https://brew.sh/)
 - [ ] `brew install yadm`
 - [ ] Download SSH key
-- [ ] Clone `dotfiles`
+- [ ] Clone [`bsstokes/dotfiles`](https://github.com/bsstokes/dotfiles)
 
 ```sh
 export GIT_SSH_COMMAND='ssh -i key'
